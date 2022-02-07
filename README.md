@@ -26,6 +26,6 @@ for follower in followers:
 The output of get_followers is in followers.json
 
 ### To get access:
-Telegram: https://t.me/xJxckk
+Contact me on Telegram: https://t.me/xJxckk
 
-Discord: jx#2099
+Message me on Discord: jx#2099
