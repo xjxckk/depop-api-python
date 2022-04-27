@@ -25,7 +25,7 @@ for follower in followers:
 
 The output of get_followers is in [followers.json](https://github.com/xjxckk/depop-api-python/blob/main/followers.json)
 
-### To get access:
+### How to get access:
 Contact me on Telegram: @xJxckk
 
 Message me on Discord: jx#2099
