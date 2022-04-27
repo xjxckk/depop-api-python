@@ -23,9 +23,9 @@ for follower in followers:
     print(follower['username'])
 ```
 
-The output of get_followers is in followers.json
+The output of get_followers is in [followers.json](https://github.com/xjxckk/depop-api-python/blob/main/followers.json)
 
 ### To get access:
-Contact me on Telegram: https://t.me/xJxckk
+Contact me on Telegram: @xJxckk
 
 Message me on Discord: jx#2099
